@@ -1,0 +1,11 @@
+.Cell-on {
+    background-color: #00bcd3;
+}
+
+.Cell-off {
+    background-color: #263038;
+}
+
+.Cell {
+    border: 0.1pt solid #ccc;
+}
